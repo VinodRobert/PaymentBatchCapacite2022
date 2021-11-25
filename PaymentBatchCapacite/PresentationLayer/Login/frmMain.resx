@@ -117,11 +117,72 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="logo2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo21.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <metadata name="statusStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="toolTip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>145, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>51</value>
+  </metadata>
+  <metadata name="menuStripPaymentBatch.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>737, 17</value>
+  </metadata>
+  <metadata name="mainFrameBarManager1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>250, 17</value>
+  </metadata>
+  <data name="mainFrameBarManager1.BarPositionInfo" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAEAQAAABZTeXN0ZW0uSU8uTWVtb3J5U3RyZWFtCgAAAAdfYnVmZmVyB19v
+        cmlnaW4JX3Bvc2l0aW9uB19sZW5ndGgJX2NhcGFjaXR5C19leHBhbmRhYmxlCV93cml0YWJsZQpfZXhw
+        b3NhYmxlB19pc09wZW4dTWFyc2hhbEJ5UmVmT2JqZWN0K19faWRlbnRpdHkHAAAAAAAAAAACAggICAgB
+        AQEBCQIAAAAAAAAAYAIAAGACAAAABAAAAQEBAQoPAgAAAAAEAAACAAEAAAD/////AQAAAAAAAAAMAgAA
+        AGBTeW5jZnVzaW9uLlRvb2xzLldpbmRvd3MsIFZlcnNpb249MTcuNDQ2MC4wLjM5LCBDdWx0dXJlPW5l
+        dXRyYWwsIFB1YmxpY0tleVRva2VuPTNkNjdlZDFmODdkNDRjODkFAQAAADpTeW5jZnVzaW9uLldpbmRv
+        d3MuRm9ybXMuVG9vbHMuQ0JDdHJsclNlcmlhbGl6YXRpb25XcmFwcGVyAgAAAAhjYkJvcmRlcg1odENC
+        YXJXcmFwcGVyBAMzU3luY2Z1c2lvbi5XaW5kb3dzLkZvcm1zLlRvb2xzLkNvbW1hbmRCYXJEb2NrQm9y
+        ZGVyAgAAABxTeXN0ZW0uQ29sbGVjdGlvbnMuSGFzaHRhYmxlAgAAAAX9////M1N5bmNmdXNpb24uV2lu
+        ZG93cy5Gb3Jtcy5Ub29scy5Db21tYW5kQmFyRG9ja0JvcmRlcgEAAAAHdmFsdWVfXwAIAgAAAA8AAAAJ
+        BAAAAAQEAAAAHFN5c3RlbS5Db2xsZWN0aW9ucy5IYXNodGFibGUHAAAACkxvYWRGYWN0b3IHVmVyc2lv
+        bghDb21wYXJlchBIYXNoQ29kZVByb3ZpZGVyCEhhc2hTaXplBEtleXMGVmFsdWVzAAADAwAFBQsIHFN5
+        c3RlbS5Db2xsZWN0aW9ucy5JQ29tcGFyZXIkU3lzdGVtLkNvbGxlY3Rpb25zLklIYXNoQ29kZVByb3Zp
+        ZGVyCOxROD8AAAAACgoDAAAACQUAAAAJBgAAABAFAAAAAAAAABAGAAAAAAAAAAsAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAs=
+</value>
   </data>
-  <data name="payment-methods-14-772470" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\payment-methods-14-7724701.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <metadata name="tabbedGroupedMDIManager1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>474, 17</value>
+  </metadata>
+  <data name="tabbedGroupedMDIManager1.ContextMenuItem" mimetype="application/x-microsoft.net.object.binary.base64">
+    <value>
+        AAEAAAD/////AQAAAAAAAAAMAgAAAGBTeW5jZnVzaW9uLlRvb2xzLldpbmRvd3MsIFZlcnNpb249MTcu
+        NDQ2MC4wLjM5LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPTNkNjdlZDFmODdkNDRjODkM
+        AwAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAuMC4wLCBDdWx0dXJlPW5ldXRyYWws
+        IFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAAADRTeW5jZnVzaW9uLldpbmRvd3MuRm9y
+        bXMuVG9vbHMuWFBNZW51cy5QYXJlbnRCYXJJdGVtEwAAAA1DYXRlZ29yeUluZGV4B0NoZWNrZWQHRW5h
+        YmxlZApJbWFnZUluZGV4Ck1lcmdlT3JkZXIJTWVyZ2VUeXBlClBhaW50U3R5bGUIU2hvcnRjdXQEVGV4
+        dAdUb29sdGlwAklEB01hbmFnZXISRGlzYWJsZWRJbWFnZUluZGV4FUhpZ2hsaWdodGVkSW1hZ2VJbmRl
+        eBBTZXBhcmF0b3JJbmRpY2VzC1BhcmVudFN0eWxlDENsb3NlT25DbGljaw9Vc2VQYXJ0aWFsTWVudXMF
+        SXRlbXMAAAAAAAQEBAEBAQIAAAMEAAADCAEBCAgeU3lzdGVtLldpbmRvd3MuRm9ybXMuTWVudU1lcmdl
+        AwAAADFTeW5jZnVzaW9uLldpbmRvd3MuRm9ybXMuVG9vbHMuWFBNZW51cy5QYWludFN0eWxlAgAAAB1T
+        eXN0ZW0uV2luZG93cy5Gb3Jtcy5TaG9ydGN1dAMAAAAICBxTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlM
+        aXN0OVN5bmNmdXNpb24uV2luZG93cy5Gb3Jtcy5Ub29scy5YUE1lbnVzLlBhcmVudEJhckl0ZW1TdHls
+        ZQIAAAABARxTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0AgAAAP////8AAf////8AAAAABfz///8e
+        U3lzdGVtLldpbmRvd3MuRm9ybXMuTWVudU1lcmdlAQAAAAd2YWx1ZV9fAAgDAAAAAAAAAAX7////MVN5
+        bmNmdXNpb24uV2luZG93cy5Gb3Jtcy5Ub29scy5YUE1lbnVzLlBhaW50U3R5bGUBAAAAB3ZhbHVlX18A
+        CAIAAAAAAAAABfr///8dU3lzdGVtLldpbmRvd3MuRm9ybXMuU2hvcnRjdXQBAAAAB3ZhbHVlX18ACAMA
+        AAAAAAAABgcAAAAACQcAAAAJBwAAAAr//////////wkIAAAABff///85U3luY2Z1c2lvbi5XaW5kb3dz
+        LkZvcm1zLlRvb2xzLlhQTWVudXMuUGFyZW50QmFySXRlbVN0eWxlAQAAAAd2YWx1ZV9fAAgCAAAAAAAA
+        AAEBCQoAAAAECAAAABxTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0AwAAAAZfaXRlbXMFX3NpemUI
+        X3ZlcnNpb24FAAAICAkLAAAAAgAAAAEAAAABCgAAAAgAAAAJDAAAAAAAAAAAAAAAEAsAAAACAAAACAgA
+        AAAACAgEAAAAEAwAAAAAAAAACw==
+</value>
   </data>
 </root>

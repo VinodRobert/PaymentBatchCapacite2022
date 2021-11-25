@@ -1,0 +1,27 @@
+﻿1>------ Build started: Project: PaymentBatchCapacite, Configuration: Debug Any CPU ------
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\Program.cs(19,33,19,41): error CS0246: The type or namespace name 'frmLogin' could not be found (are you missing a using directive or an assembly reference?)
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\BusinessLayer\PayBatchClass.cs(591,52,591,67): error CS0103: The name 'GlobalVariables' does not exist in the current context
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\PresentationLayer\Login\frmLogin.cs(56,17,56,32): error CS0103: The name 'GlobalVariables' does not exist in the current context
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\PresentationLayer\Login\frmLogin.cs(58,17,58,32): error CS0103: The name 'GlobalVariables' does not exist in the current context
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\PresentationLayer\Login\frmLogin.cs(77,17,77,32): error CS0103: The name 'GlobalVariables' does not exist in the current context
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\PresentationLayer\Login\frmLogin.cs(78,17,78,32): error CS0103: The name 'GlobalVariables' does not exist in the current context
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\PresentationLayer\Login\frmLogin.cs(79,17,79,32): error CS0103: The name 'GlobalVariables' does not exist in the current context
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\PresentationLayer\Login\frmLogin.cs(80,17,80,32): error CS0103: The name 'GlobalVariables' does not exist in the current context
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\PresentationLayer\Login\frmLogin.cs(82,21,82,36): error CS0103: The name 'GlobalVariables' does not exist in the current context
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\PresentationLayer\Login\frmLogin.cs(114,21,114,28): error CS0246: The type or namespace name 'frmMain' could not be found (are you missing a using directive or an assembly reference?)
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\PresentationLayer\Login\frmLogin.cs(114,41,114,48): error CS0246: The type or namespace name 'frmMain' could not be found (are you missing a using directive or an assembly reference?)
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\PresentationLayer\Login\frmLogin.cs(170,13,170,28): error CS0103: The name 'GlobalVariables' does not exist in the current context
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\PresentationLayer\Login\frmLogin.cs(173,13,173,20): error CS0246: The type or namespace name 'frmMain' could not be found (are you missing a using directive or an assembly reference?)
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\PresentationLayer\Login\frmLogin.cs(173,33,173,40): error CS0246: The type or namespace name 'frmMain' could not be found (are you missing a using directive or an assembly reference?)
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\BusinessLayer\GlobalVariables.cs(18,34,18,45): warning CS0649: Field 'GlobalVariables.projectName' is never assigned to, and will always have its default value null
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\BusinessLayer\GlobalVariables.cs(19,34,19,46): warning CS0649: Field 'GlobalVariables.projectLists' is never assigned to, and will always have its default value null
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\BusinessLayer\GlobalVariables.cs(15,34,15,45): warning CS0649: Field 'GlobalVariables.projectCode' is never assigned to, and will always have its default value 0
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\BusinessLayer\GlobalVariables.cs(14,34,14,45): warning CS0649: Field 'GlobalVariables.connectedBy' is never assigned to, and will always have its default value 0
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\BusinessLayer\GlobalVariables.cs(16,33,16,40): warning CS0649: Field 'GlobalVariables._borgID' is never assigned to, and will always have its default value 0
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\PresentationLayer\Login\frmLogin.cs(20,17,20,34): warning CS0169: The field 'frmLogin.dsPrevilagedMenus' is never used
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\BusinessLayer\GlobalVariables.cs(21,33,21,48): warning CS0649: Field 'GlobalVariables.UploadingRights' is never assigned to, and will always have its default value 0
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\BusinessLayer\GlobalVariables.cs(20,34,20,42): warning CS0649: Field 'GlobalVariables.UserName' is never assigned to, and will always have its default value null
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\BusinessLayer\GlobalVariables.cs(13,34,13,40): warning CS0649: Field 'GlobalVariables.UserID' is never assigned to, and will always have its default value null
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\BusinessLayer\GlobalVariables.cs(12,34,12,42): warning CS0649: Field 'GlobalVariables.UserRole' is never assigned to, and will always have its default value 0
+1>D:\PaymentBatchCapacite\PaymentBatchCapacite\BusinessLayer\PayBatchClass.cs(354,24,354,34): warning CS0169: The field 'Beneficiary.m_ifscCode' is never used
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========

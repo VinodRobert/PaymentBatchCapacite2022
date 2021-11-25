@@ -358,14 +358,65 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="BusinessLayer\GlobalVariables.cs" />
+    <Compile Include="BusinessLayer\PayBatchClass.cs" />
+    <Compile Include="DataLayer\SQLHelper.cs" />
+    <Compile Include="PresentationLayer\Batches\frmBatchApproved.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="PresentationLayer\Batches\frmBatchApproved.designer.cs">
+      <DependentUpon>frmBatchApproved.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\Batches\frmBatchAwaitingApproval.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\Batches\frmBatchAwaitingApproval.designer.cs">
+      <DependentUpon>frmBatchAwaitingApproval.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\Batches\frmOutstandingBreakUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\Batches\frmOutstandingBreakUp.designer.cs">
+      <DependentUpon>frmOutstandingBreakUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\Batches\frmTrackMyBatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\Batches\frmTrackMyBatch.designer.cs">
+      <DependentUpon>frmTrackMyBatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\Login\frmLogin.designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PresentationLayer\Login\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PresentationLayer\Login\frmMain.designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="PresentationLayer\Batches\frmBatchApproved.resx">
+      <DependentUpon>frmBatchApproved.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\Batches\frmBatchAwaitingApproval.resx">
+      <DependentUpon>frmBatchAwaitingApproval.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\Batches\frmOutstandingBreakUp.resx">
+      <DependentUpon>frmOutstandingBreakUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\Batches\frmTrackMyBatch.resx">
+      <DependentUpon>frmTrackMyBatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\Login\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PresentationLayer\Login\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -374,6 +425,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -387,6 +439,18 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\CapaciteBackground.jpg" />
+    <Content Include="Resources\Currency.png" />
+    <Content Include="Resources\Delete.png" />
+    <Content Include="Resources\icons8-money-bag-100.png" />
+    <Content Include="Resources\logo2.png" />
+    <None Include="Resources\payment-methods-14-7724701.png" />
+    <None Include="Resources\logo21.png" />
+    <Content Include="Resources\payment-methods-14-772470.png" />
+    <Content Include="Resources\PBLogo.bmp" />
+    <Content Include="Resources\Rupee.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
